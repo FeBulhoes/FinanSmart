@@ -3,9 +3,9 @@
 Aplicação web de controle financeiro pessoal desenvolvida para um projeto acadêmico de Front-end.
 
 ## Tecnologias
-- HTML5 semântico
-- CSS3 com layout responsivo e abordagem mobile-first
-- JavaScript ES6+ com módulos
+- HTML5
+- CSS3 com layout responsivo
+- JavaScript
 - Canvas API para gráfico de fluxo financeiro
 
 ## Funcionalidades
@@ -19,12 +19,12 @@ Aplicação web de controle financeiro pessoal desenvolvida para um projeto acad
 - Layout adaptável para desktop, tablet e celular
 
 ## Como executar
-1. Baixe ou clone este repositório.
-2. Abra a pasta no Visual Studio Code.
-3. Inicie um servidor local (por exemplo, a extensão Live Server).
-4. Abra `index.html` pelo servidor local.
+1. Baixe ou clone este repositório
+2. Abra a pasta no Visual Studio Code
+3. Inicie um servidor local (por exemplo, a extensão Live Server)
+4. Abra `index.html` pelo servidor local
 
-> O sistema inicia sem transações cadastradas. As movimentações adicionadas ficam apenas em memória durante a execução; ao recarregar a página, elas são apagadas. Não há backend nem armazenamento persistente.
+> O sistema inicia sem transações cadastradas. As movimentações adicionadas ficam apenas em memória durante a execução; ao recarregar a página, elas são apagadas. Não contém vínculo com banco de dados.
 
 ## Estrutura
 ```text
@@ -41,7 +41,3 @@ FinanSmart/
 │   └── images/
 └── README.md
 ```
-
-## Observação acadêmica
-O sistema não realiza pagamentos, transferências bancárias ou operações financeiras reais.
-#
