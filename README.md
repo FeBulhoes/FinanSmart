@@ -1,6 +1,7 @@
 # FinanSmart
 
 Aplicação web de controle financeiro pessoal desenvolvida para um projeto acadêmico de Front-end.
+(Inicie através do Live Server)
 
 ## Tecnologias
 - HTML5
