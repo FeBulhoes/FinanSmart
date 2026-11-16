@@ -21,7 +21,7 @@ Aplicação web de controle financeiro pessoal desenvolvida para um projeto acad
 ## Como executar
 1. Baixe ou clone este repositório
 2. Abra a pasta no Visual Studio Code
-3. Inicie um servidor local (por exemplo, a extensão Live Server)
+3. Inicie um servidor local pela extensão Live Server
 4. Abra `index.html` pelo servidor local
 
 > O sistema inicia sem transações cadastradas. As movimentações adicionadas ficam apenas em memória durante a execução; ao recarregar a página, elas são apagadas. Não contém vínculo com banco de dados.
