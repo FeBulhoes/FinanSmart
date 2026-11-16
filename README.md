@@ -38,6 +38,6 @@ FinanSmart/
 │   ├── data.js
 │   ├── dashboard.js
 │   └── transactions.js
-├── assets/
+│
 └── README.md
 ```
